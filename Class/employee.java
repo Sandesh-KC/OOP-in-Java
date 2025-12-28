@@ -1,4 +1,4 @@
-//2. Creating a class with employee with instance variables name, age, salary. then creating parameterized method setInfo() and showInfo(). creating test class and object of employee class then, setting and printing employee details. 
+/*2. Creating a class with employee with instance variables name, age, salary. then creating parameterized method setInfo() and showInfo(). creating test class and object of employee class then, setting and printing employee details. */
 class Employee {
   private String name;
   private int age;

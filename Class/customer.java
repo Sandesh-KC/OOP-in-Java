@@ -1,4 +1,4 @@
-//3. Create class Customer with instance variables- accno, name, balance. Create parameterized constructor to set the customer details and a method showInfo() to display the customer details. Create two other methods- void deposit(int amount) and void withdraw(int amount). Print the deposited account and new balance, and same for withdraw. Also check if withdraw is possible or not. Provide a test class.
+/*3. Create class Customer with instance variables- accno, name, balance. Create parameterized constructor to set the customer details and a method showInfo() to display the customer details. Create two other methods- void deposit(int amount) and void withdraw(int amount). Print the deposited account and new balance, and same for withdraw. Also check if withdraw is possible or not. Provide a test class.*/
 class Customer {
   private int accno;
   private String name; 
